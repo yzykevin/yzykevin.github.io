@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Saltyfish&#39;s Blog</title>
-    <link>https://yzykevin.github.io/</link>
-    <description>Recent content on Saltyfish&#39;s Blog</description>
+    <title>Pages on Saltyfish&#39;s Blog</title>
+    <link>https://yzykevin.github.io/page/</link>
+    <description>Recent content in Pages on Saltyfish&#39;s Blog</description>
     <image>
       <title>Saltyfish&#39;s Blog</title>
       <url>https://yzykevin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,27 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 08 Jan 2024 17:01:59 +0800</lastBuildDate>
-    <atom:link href="https://yzykevin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yzykevin.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://yzykevin.github.io/page/about/</link>
       <pubDate>Mon, 08 Jan 2024 17:01:59 +0800</pubDate>
       <guid>https://yzykevin.github.io/page/about/</guid>
       <description>This is me.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://yzykevin.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 08 Jan 2024 16:12:30 +0800</pubDate>
-      <guid>https://yzykevin.github.io/posts/my-first-post/</guid>
-      <description>ddd</description>
-    </item>
-    <item>
-      <title>My Post</title>
-      <link>https://yzykevin.github.io/posts/my-post/</link>
-      <pubDate>Mon, 08 Jan 2024 16:12:30 +0800</pubDate>
-      <guid>https://yzykevin.github.io/posts/my-post/</guid>
-      <description>##HA</description>
     </item>
   </channel>
 </rss>
