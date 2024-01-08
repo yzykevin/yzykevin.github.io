@@ -20,5 +20,12 @@
       <guid>https://yzykevin.github.io/posts/my-first-post/</guid>
       <description>ddd</description>
     </item>
+    <item>
+      <title>My Post</title>
+      <link>https://yzykevin.github.io/posts/my-post/</link>
+      <pubDate>Mon, 08 Jan 2024 16:12:30 +0800</pubDate>
+      <guid>https://yzykevin.github.io/posts/my-post/</guid>
+      <description>##HA</description>
+    </item>
   </channel>
 </rss>
