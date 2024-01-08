@@ -11,21 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jan 2024 16:12:30 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 17:04:55 +0800</lastBuildDate>
     <atom:link href="https://yzykevin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Post</title>
+      <link>https://yzykevin.github.io/posts/my-post/</link>
+      <pubDate>Mon, 08 Jan 2024 17:04:55 +0800</pubDate>
+      <guid>https://yzykevin.github.io/posts/my-post/</guid>
+      <description>##HH</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://yzykevin.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 08 Jan 2024 16:12:30 +0800</pubDate>
       <guid>https://yzykevin.github.io/posts/my-first-post/</guid>
       <description>ddd</description>
-    </item>
-    <item>
-      <title>My Post</title>
-      <link>https://yzykevin.github.io/posts/my-post/</link>
-      <pubDate>Mon, 08 Jan 2024 16:12:30 +0800</pubDate>
-      <guid>https://yzykevin.github.io/posts/my-post/</guid>
-      <description>##HA</description>
     </item>
   </channel>
 </rss>
