@@ -11,21 +11,62 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jan 2024 16:12:30 +0800</lastBuildDate>
     <atom:link href="https://yzykevin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://yzykevin.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 08 Jan 2024 16:12:30 +0800</pubDate>
-      <guid>https://yzykevin.github.io/posts/my-first-post/</guid>
-      <description>ddd</description>
+      <title>Certificates from Linkedin Learning in DevOps</title>
+      <link>https://yzykevin.github.io/posts/c-ll-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ll-devops/</guid>
+      <description> DevOps </description>
     </item>
     <item>
-      <title>test post</title>
-      <link>https://yzykevin.github.io/posts/my-post/</link>
-      <pubDate>Fri, 15 Sep 2023 11:30:03 +0000</pubDate>
-      <guid>https://yzykevin.github.io/posts/my-post/</guid>
-      <description>Desc Text.</description>
+      <title>Certificates from Linkedin Learning in Git</title>
+      <link>https://yzykevin.github.io/posts/c-ll-git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ll-git/</guid>
+      <description> Git Workflows Learning Git and GitHub 2021 Learning GitLab 2019 Programming Foundations Version Control with Git </description>
+    </item>
+    <item>
+      <title>Certificates from Linkedin Learning in Python</title>
+      <link>https://yzykevin.github.io/posts/c-ll-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ll-python/</guid>
+      <description> Django Essential Training </description>
+    </item>
+    <item>
+      <title>Certificates from Programming Hub in AI</title>
+      <link>https://yzykevin.github.io/posts/c-ph-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ph-ai/</guid>
+      <description> ChatGPT </description>
+    </item>
+    <item>
+      <title>Certificates from SoloLearn in C</title>
+      <link>https://yzykevin.github.io/posts/c-sl-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-sl-c/</guid>
+      <description> Introduction to C </description>
+    </item>
+    <item>
+      <title>Certificates from SoloLearn in Coding</title>
+      <link>https://yzykevin.github.io/posts/c-sl-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-sl-coding/</guid>
+      <description> Coding Foundations Tech for Everyone Coding for Data </description>
+    </item>
+    <item>
+      <title>Certificates from SoloLearn in Python</title>
+      <link>https://yzykevin.github.io/posts/c-sl-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-sl-python/</guid>
+      <description> Introduction to Python Python Intermediate Python Developer </description>
+    </item>
+    <item>
+      <title>Certificates from SoloLearn in SQL</title>
+      <link>https://yzykevin.github.io/posts/c-sl-sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-sl-sql/</guid>
+      <description> Introduction to SQL SQL Intermediate </description>
     </item>
   </channel>
 </rss>

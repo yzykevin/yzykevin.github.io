@@ -12,5 +12,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://yzykevin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>certificates</title>
+      <link>https://yzykevin.github.io/categories/certificates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/categories/certificates/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
