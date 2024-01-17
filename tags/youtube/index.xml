@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youtube on Saltyfish&#39;s Blog</title>
+    <link>https://yzykevin.github.io/tags/youtube/</link>
+    <description>Recent content in youtube on Saltyfish&#39;s Blog</description>
+    <image>
+      <title>Saltyfish&#39;s Blog</title>
+      <url>https://yzykevin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yzykevin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://yzykevin.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📺 Music Video with Lyrics</title>
+      <link>https://yzykevin.github.io/posts/m-ytb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-ytb/</guid>
+      <description> MV-Lyrics: I&amp;rsquo;ll take it MV-Lyrics: Ancient Initialization </description>
+    </item>
+  </channel>
+</rss>

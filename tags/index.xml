@@ -20,6 +20,13 @@
       <description></description>
     </item>
     <item>
+      <title>Album</title>
+      <link>https://yzykevin.github.io/tags/album/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/tags/album/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>C</title>
       <link>https://yzykevin.github.io/tags/c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -59,6 +66,13 @@
       <link>https://yzykevin.github.io/tags/sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yzykevin.github.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>youtube</title>
+      <link>https://yzykevin.github.io/tags/youtube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/tags/youtube/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Saltyfish&#39;s Blog</title>
+    <link>https://yzykevin.github.io/categories/music/</link>
+    <description>Recent content in Music on Saltyfish&#39;s Blog</description>
+    <image>
+      <title>Saltyfish&#39;s Blog</title>
+      <url>https://yzykevin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yzykevin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://yzykevin.github.io/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎙 Music Album - 《Twisted Dream》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-twisted_dream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-twisted_dream/</guid>
+      <description> Album - 《Twisted Dream》 </description>
+    </item>
+    <item>
+      <title>🎙 Music Album - 《Horizon》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-horizon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-horizon/</guid>
+      <description> Album - 《Horizon》 </description>
+    </item>
+    <item>
+      <title>🎙 Music Album - 《Life on the Road》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-life_on_the_road/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-life_on_the_road/</guid>
+      <description> Album - 《Life on the Road》 </description>
+    </item>
+    <item>
+      <title>🎙 Music Album - 《the Metro》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-the_metro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-the_metro/</guid>
+      <description> Album - 《the Metro》 </description>
+    </item>
+  </channel>
+</rss>

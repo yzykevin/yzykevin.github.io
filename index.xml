@@ -11,70 +11,105 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jan 2024 17:01:59 +0800</lastBuildDate>
     <atom:link href="https://yzykevin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://yzykevin.github.io/page/about/</link>
-      <pubDate>Mon, 08 Jan 2024 17:01:59 +0800</pubDate>
-      <guid>https://yzykevin.github.io/page/about/</guid>
-      <description>This is me.</description>
-    </item>
-    <item>
-      <title>Certificates from Linkedin Learning in DevOps</title>
-      <link>https://yzykevin.github.io/posts/c-ll-devops/</link>
+      <title>📺 Music Video with Lyrics</title>
+      <link>https://yzykevin.github.io/posts/m-ytb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yzykevin.github.io/posts/c-ll-devops/</guid>
-      <description> DevOps </description>
+      <guid>https://yzykevin.github.io/posts/m-ytb/</guid>
+      <description> MV-Lyrics: I&amp;rsquo;ll take it MV-Lyrics: Ancient Initialization </description>
     </item>
     <item>
-      <title>Certificates from Linkedin Learning in Git</title>
-      <link>https://yzykevin.github.io/posts/c-ll-git/</link>
+      <title>🎙 Music Album - 《Twisted Dream》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-twisted_dream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yzykevin.github.io/posts/c-ll-git/</guid>
-      <description> Git Workflows Learning Git and GitHub 2021 Learning GitLab 2019 Programming Foundations Version Control with Git </description>
+      <guid>https://yzykevin.github.io/posts/m-dk-twisted_dream/</guid>
+      <description> Album - 《Twisted Dream》 </description>
     </item>
     <item>
-      <title>Certificates from Linkedin Learning in Python</title>
-      <link>https://yzykevin.github.io/posts/c-ll-python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yzykevin.github.io/posts/c-ll-python/</guid>
-      <description> Django Essential Training </description>
-    </item>
-    <item>
-      <title>Certificates from Programming Hub in AI</title>
-      <link>https://yzykevin.github.io/posts/c-ph-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yzykevin.github.io/posts/c-ph-ai/</guid>
-      <description> ChatGPT </description>
-    </item>
-    <item>
-      <title>Certificates from SoloLearn in C</title>
+      <title>🎯 Certificates from SoloLearn in C</title>
       <link>https://yzykevin.github.io/posts/c-sl-c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yzykevin.github.io/posts/c-sl-c/</guid>
       <description> Introduction to C </description>
     </item>
     <item>
-      <title>Certificates from SoloLearn in Coding</title>
-      <link>https://yzykevin.github.io/posts/c-sl-coding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yzykevin.github.io/posts/c-sl-coding/</guid>
-      <description> Coding Foundations Tech for Everyone Coding for Data </description>
-    </item>
-    <item>
-      <title>Certificates from SoloLearn in Python</title>
+      <title>🎯 Certificates from SoloLearn in Python</title>
       <link>https://yzykevin.github.io/posts/c-sl-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yzykevin.github.io/posts/c-sl-python/</guid>
       <description> Introduction to Python Python Intermediate Python Developer </description>
     </item>
     <item>
-      <title>Certificates from SoloLearn in SQL</title>
+      <title>🌙 About</title>
+      <link>https://yzykevin.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/page/about/</guid>
+      <description>An IC Verification Engineer.
+An Independent Music Producer.</description>
+    </item>
+    <item>
+      <title>🎯 Certificates from Linkedin Learning in DevOps</title>
+      <link>https://yzykevin.github.io/posts/c-ll-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ll-devops/</guid>
+      <description> DevOps </description>
+    </item>
+    <item>
+      <title>🎯 Certificates from Linkedin Learning in Git</title>
+      <link>https://yzykevin.github.io/posts/c-ll-git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ll-git/</guid>
+      <description> Git Workflows Learning Git and GitHub 2021 Learning GitLab 2019 Programming Foundations Version Control with Git </description>
+    </item>
+    <item>
+      <title>🎯 Certificates from Linkedin Learning in Python</title>
+      <link>https://yzykevin.github.io/posts/c-ll-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ll-python/</guid>
+      <description> Django Essential Training </description>
+    </item>
+    <item>
+      <title>🎯 Certificates from Programming Hub in AI</title>
+      <link>https://yzykevin.github.io/posts/c-ph-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-ph-ai/</guid>
+      <description> ChatGPT </description>
+    </item>
+    <item>
+      <title>🎯 Certificates from SoloLearn in Coding</title>
+      <link>https://yzykevin.github.io/posts/c-sl-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/c-sl-coding/</guid>
+      <description> Coding Foundations Tech for Everyone Coding for Data </description>
+    </item>
+    <item>
+      <title>🎯 Certificates from SoloLearn in SQL</title>
       <link>https://yzykevin.github.io/posts/c-sl-sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yzykevin.github.io/posts/c-sl-sql/</guid>
       <description> Introduction to SQL SQL Intermediate </description>
+    </item>
+    <item>
+      <title>🎙 Music Album - 《Horizon》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-horizon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-horizon/</guid>
+      <description> Album - 《Horizon》 </description>
+    </item>
+    <item>
+      <title>🎙 Music Album - 《Life on the Road》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-life_on_the_road/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-life_on_the_road/</guid>
+      <description> Album - 《Life on the Road》 </description>
+    </item>
+    <item>
+      <title>🎙 Music Album - 《the Metro》</title>
+      <link>https://yzykevin.github.io/posts/m-dk-the_metro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/posts/m-dk-the_metro/</guid>
+      <description> Album - 《the Metro》 </description>
     </item>
   </channel>
 </rss>

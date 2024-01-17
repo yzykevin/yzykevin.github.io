@@ -19,5 +19,19 @@
       <guid>https://yzykevin.github.io/categories/certificates/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Music</title>
+      <link>https://yzykevin.github.io/categories/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MV</title>
+      <link>https://yzykevin.github.io/categories/mv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yzykevin.github.io/categories/mv/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
