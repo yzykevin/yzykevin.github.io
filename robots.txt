@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://yzykevin.github.io/sitemap.xml
